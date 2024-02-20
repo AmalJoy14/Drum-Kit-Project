@@ -46,7 +46,9 @@ header {
     font-weight: 1000;
     color: #040e19;
 }
-
+.item :active{
+    border: 7px solid blue;
+}
 #item1 {
     background-image: url(./Images/tom1.png);
     background-size: cover;
