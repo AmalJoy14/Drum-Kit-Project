@@ -5,6 +5,9 @@
     }
 }
 @media(max-width:500px){
+    .subcontainer1 ,.subcontainer2{
+        height: 120px;
+    }
     .item{
         width: 60px;
         height: 60px;
